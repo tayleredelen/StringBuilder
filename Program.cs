@@ -25,6 +25,7 @@ namespace CSharpFundamentals
             // builder.Replace('-', '+');
             // builder.Remove(0. 10);
             // builder.Insert(0, new string('-', 10));
+            //multiple lines can be used via tab after declaring builder, see above
 
             Console.WriteLine(builder);
             Console.WriteLine("First Char: " + builder[0]);
